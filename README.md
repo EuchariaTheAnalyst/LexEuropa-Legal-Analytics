@@ -439,7 +439,7 @@ SWITCH(
 
 The dashboard was designed to give partners a clear path from firm-wide performance into practice area, lawyer, and client-level detail. Rather than presenting every metric on a single page, the report is divided into three dedicated pages, each focusing on a specific business function, with global slicers (Year/Quarter, Office City, Practice Area) synced across all three.
 
-### (Dashboard Link)[https://app.powerbi.com/view?r=eyJrIjoiN2M3NWM1NzMtYzE5Yy00OTJhLWFlZTItYjMwNDNhNDcxMDRjIiwidCI6ImQyZTg4Mzg1LWI4OTAtNDA1Mi1iOWUwLWZmMGIzMTBjZmZmYSJ9]
+### [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2M3NWM1NzMtYzE5Yy00OTJhLWFlZTItYjMwNDNhNDcxMDRjIiwidCI6ImQyZTg4Mzg1LWI4OTAtNDA1Mi1iOWUwLWZmMGIzMTBjZmZmYSJ9)
 ### Overview
 
 <img width="864" height="484" alt="Image" src="https://github.com/user-attachments/assets/ec94b694-7729-4b03-a51a-8de06b35f932" />
