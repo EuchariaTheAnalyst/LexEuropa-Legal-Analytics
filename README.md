@@ -505,35 +505,35 @@ These visualizations help partners identify which client relationships carry the
 
 ### Overview Insights
 
-**Firm Performance**
+**Firm Performance:**
 
 The dashboard shows the firm processed 15,000 cases across the reporting period, generating €2.80 billion in total revenue and €1.59 billion in profit, a firm-wide profit margin of 56.8%. Of the 15,000 cases, 8,118 remain active (Open, Under Review, Negotiation, Court Proceedings, or Pending Closure), while 6,882 have reached a formally Closed status. Average case duration stands at 258 days.
 
-**Practice Area Performance**
+**Practice Area Performance:**
 
 Regulatory Compliance is the firm's largest revenue driver at €433.8 million, narrowly ahead of Mergers & Acquisitions at €423.4 million and Litigation at €380.0 million. Corporate Law (€347.1 million) and Intellectual Property (€308.1 million) round out the top five. Family Law (€100.7 million) and Real Estate Law (€153.0 million) trail well behind, together representing the smallest share of the ten-practice-area mix.
 
-**Office Performance**
+**Office Performance:**
 
 The Frankfurt office stands out on profitability, generating €365.6 million in revenue at a 57.0% margin, slightly ahead of the firm average of 56.8%. Clients headquartered in Germany carry a comparable weighted margin of 55.7% on €102.3 million in revenue, suggesting the strength is driven by the office's overall case mix rather than any single large client relationship.
 
-**Case Outcome Revenue Concentration**
+**Case Outcome Revenue Concentration:**
 
 Revenue splits fairly evenly across outcomes by case count, but not by value: Won cases account for 27.9% of total revenue (€782.1 million), Settled for 27.4% (€767.2 million), and Ongoing for 26.5% (€742.6 million), while Lost cases represent just 12.6% (€354.5 million) and Withdrawn only 5.6% (€156.8 million). Won and Settled cases carrying a disproportionate share of revenue relative to Lost and Withdrawn cases suggests the firm's higher-value engagements are also its more successful ones.
 
 ### Performance Insights
 
-**Utilization by Seniority**
+**Utilization by Seniority:**
 
 Firm-wide average lawyer utilization sits at 20.5% of estimated annual capacity, but this figure masks a wide gap by seniority. Partners average 43.8% utilization, close to three times the 15.3% seen among Associates, with Counsel (28.0%) and Senior Associates (20.9%) in between. Average billable hours per case stand at 140, with 13.1% of all logged hours across the firm being non-billable.
 
 This gap is worth treating as a resourcing signal rather than background detail. Partners are carrying a disproportionate share of billable work relative to their capacity, while Associate capacity appears comparatively underused across the portfolio, a pattern with direct implications for both burnout risk at the senior end and development opportunity at the junior end.
 
-**Win Rate**
+**Win Rate:**
 
 The firm's win rate stands at 36.3%, calculated as 2,495 Won cases against 6,882 formally Closed cases (1,295 Lost, 2,338 Settled, 754 Withdrawn making up the remainder). This is the figure that should be used consistently across partner reporting, since it is reconciled directly against the underlying Closed-case population.
 
-**Lawyer-Level Analysis**
+**Lawyer-Level Analysis:**
 
 The firm-wide utilization gap by seniority is largely explained by case assignment, not effort: Associates handle 71.3% Low-complexity and 28.7% Medium-complexity cases exclusively, with zero High or Critical cases, while Partners handle only High (46.9%) and Critical (53.1%) complexity cases. That structural split shows up directly in profit per case, Associates average €13,307 profit per case versus €767,708 for Partners, a 58x difference driven by case tier rather than individual performance. Win rate follows the same pattern: Partner 45.3%, Counsel 42.8%, Senior Associate 37.6%, Associate 32.0%.
 
@@ -545,17 +545,17 @@ Two individuals stand out as a genuine outlier within their own peer group, not 
 
 ### Client Insights
 
-**Client Value and Concentration**
+**Client Value and Concentration:**
 
 132 of the firm's 800 clients (16.5%) are flagged as strategic accounts, and they generate €560.3 million in revenue, exactly 20.0% of total firm revenue. The remaining 668 non-strategic clients generate the larger share of firm revenue in aggregate, €2.24 billion, or 80.0% of the total, simply because there are five times as many of them.
 
 On a per-client basis, however, strategic clients remain the more valuable relationship: €4.24 million average revenue per strategic client versus €3.36 million per non-strategic client, alongside a slightly higher profit margin (57.3% versus 56.7%) and slightly higher satisfaction (6.67 versus 6.63). Average profit per client across the firm stands at €1.99 million, with a median of €1,650,473, meaning the average is being pulled upward by a smaller number of especially high-value relationships rather than reflecting a typical client.
 
-**Client Satisfaction and Collections**
+**Client Satisfaction and Collections:**
 
 Average client satisfaction across all cases is 6.64 out of 10. Outstanding balances stand at €773.4 million, 27.6% of the €2.80 billion invoiced to date, a figure worth monitoring alongside satisfaction, since unresolved billing can be a leading indicator of relationship strain even when case outcomes are otherwise favorable.
 
-**Client-Level Analysis**
+**Client-Level Analysis:**
 
 Revenue concentration among individual clients is moderate rather than extreme: the top 10 clients by revenue together generate €114.5 million, just 4.1% of total firm revenue, and the top 20% of clients (160 of 800) account for 40.6% of revenue. No single relationship dominates the book, which limits single-client concentration risk but also means growth has to come from broad account management rather than a handful of key relationships.
 
