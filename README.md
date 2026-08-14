@@ -454,7 +454,7 @@ Key Performance Indicators displayed include:
 - Active Cases
 
 Supporting visualizations include:
-- Revenue trend over time, alongside Profit Margin %
+- Revenue trend over time
 - Revenue by Practice Area
 - Revenue by Case Outcome
 - Revenue by Office City (map)
